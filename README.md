@@ -1,21 +1,37 @@
 # Kata Culinary Business
 A repository to challenge developers to write to most efficient/beautiful code
 
-## 🍽️ Roles
+## How to get started
+
+Fork this repository, create your own branch in a technology stack you want to tackle this problem in and get coding.
+
+Feel free to share your solutions.
+
+## Suggestions
+
+Suggestions to the spec are more than welcome! 
+
+Feel free to create issues/PRs on this develop branch to share new ideas or improvements on existing functionality.
+
+Try to not influence the suggestions towards a certain technology. It should be written from a functional perspective.
+
+## Instruction
+
+### 🍽️ Roles
 
 A culinary business can assign staff to one or more of the following groups.  
 Each group represents a functional responsibility area rather than a job title.
 
 ---
 
-### 🧑‍💼 Floor Staff
+#### 🧑‍💼 Floor Staff
 * **Seating** — Taking, modifying, and cancelling reservations (support walk-ins) 
 * **Orders** — Taking orders from customers and delivering prepared items  
 * **Takeout** — Handling takeout orders and managing pickup flow  
 
 ---
 
-### 🔪 Kitchen / Bar Staff
+#### 🔪 Kitchen / Bar Staff
 * **Orders** — Receiving incoming orders and notifying when items are ready  
 * **Meals** — Analyzing order items, preparing components, assembling & dressing  
 * **Menu** — Defining meals, recipes, ingredients, and specials  
@@ -23,7 +39,7 @@ Each group represents a functional responsibility area rather than a job title.
 
 ---
 
-### 🧾 Management Staff
+#### 🧾 Management Staff
 * **Payment** — Handling checkouts, invoices, refunds, and adjustments  
 * **Budget Reports** — Daily/monthly reporting on revenue, costs, and labor  
 * **Pantry** — Restocking, supplier management, and demand forecasting  
@@ -32,26 +48,26 @@ Each group represents a functional responsibility area rather than a job title.
 
 ---
 
-## 🧩 Culinary Business Variants
+### 🧩 Culinary Business Variants
 
 Every culinary business includes a **Management Team**.  
 Beyond that, different configurations are allowed depending on the business model.
 
 ---
 
-### 🍱 Caterer
+#### 🍱 Caterer
 * Management Staff  
 * Kitchen Staff  
 
 ---
 
-### 🏬 Outsourcing Restaurant
+#### 🏬 Outsourcing Restaurant
 * Management Staff  
 * Floor Staff  
 
 ---
 
-### 🍽️ Food Court Vendor
+#### 🍽️ Food Court Vendor
 * Management Staff  
 * Kitchen/Bar Staff (one or more units)  
 
