@@ -3,7 +3,7 @@ A repository to challenge developers to write to most efficient/beautiful code
 
 ## How to get started
 
-Fork this repository, create your own branch in a technology stack you want to tackle this problem in and get coding.
+Fork this repository, create your own branch in a technology stack you want to tackle this problem in and get coding based on the specs in `/docs`.
 
 Feel free to share your solutions.
 
